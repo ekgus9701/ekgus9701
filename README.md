@@ -8,20 +8,20 @@
 - 📫 How to reach me: ekgus9701@gmail.com
 
 #### Interests
-```
+
 - 🌱 I’m currently learning `Algorithms`, `C++`, `Making apps`.
 
 - 📺 I'm into `Grey's Anatomy` thesedays.
-```
+
 
 #### Experiences
-```
-- 💻Member of EDOC, Programming Club(2019.12~)
 
-- 😎Member of UNIS, Startup Club(2020.03~)
+- 💻Member of `EDOC`, Programming Club(2019.12~)
 
-- 🎨Member of Dam2rang, Mural Drawing Club (2019.03~)
-```
+- 😎Member of `UNIS`, Startup Club(2020.03~)
+
+- 🎨Member of `Dam2rang`, Mural Drawing Club (2019.03~)
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekgus9701&theme=radical)](https://github.com/ekgus9701/github-readme-stats)
 
