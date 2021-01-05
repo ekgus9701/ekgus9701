@@ -4,21 +4,25 @@
 	
   </div>
   
-### Hi there I'm Dahyeon🦉   
+### Hi there I'm Dahyeon🖐🖐
 ---
 
--🏰 I’m currently studying at Ewha Womans Univ.
+-🏰 I’m currently studying Computer Science & Engineering at Ewha Womans Univ.
 
 
 #### Interests
 
 -🌱 I’m currently learning Algorithms, C++, Making apps.
 
+-📺 I'm into Grey's Anatomy thesedays.
+
 
 #### Experiences
--😊Member of EDOC, Programming Club(2019.12~)
+-💻Member of EDOC, Programming Club(2019.12~)
 
 -😎Member of UNIS, Startup Club(2020.03~)
+
+-🎨Member of Dam2rang, Mural Drawing Club (2019.03~)
 
 
 
