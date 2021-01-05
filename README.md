@@ -17,7 +17,7 @@
 #### Experiences
 -😊Member of EDOC, Programming Club(2019.12~)
 
--😎Memeber of UNIS, Startup Club(2020.03~)
+-😎Member of UNIS, Startup Club(2020.03~)
 
 
 
