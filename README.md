@@ -1,9 +1,10 @@
-### Hi there 👋 I'm Dahyeon.   
 <div align=center>
 	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekgus9701&count_bg=%23F2CCF5&title_bg=%23D4E5B7&icon=&icon_color=%23F7EAEA&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekgus9701&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
   </div>
+### Hi there 👋 I'm Dahyeon.   
+
 -🔭 I’m currently the member of Ewha Womans Univ.
 
 -🌱 I’m currently learning Algorithms, C++, Making apps.
