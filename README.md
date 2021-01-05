@@ -6,16 +6,20 @@
   
 ### Hi there 👋 I'm Dahyeon.   
 
--🔭 I’m currently studying at Ewha Womans Univ.
+-🏰 I’m currently studying at Ewha Womans Univ.
+
+
+#### Interests
 
 -🌱 I’m currently learning Algorithms, C++, Making apps.
 
--📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ekgus9701@gmail.com)](mailto:ekgus9701@gmail.com)
 
 #### Experiences
 -😊Member of EDOC, Programming Club(2019.12~)
 
 -😎Memeber of UNIS, Startup Club(2020.03~)
+
+
 
 
 <!--
