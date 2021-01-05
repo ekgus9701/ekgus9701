@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekgus9701&count_bg=%23E71B8E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=ekgus9701)](https://solved.ac/ekgus9701)
 ---
 
--🏰 I’m currently studying Computer Science & Engineering at Ewha Womans Univ.
+- 🏰 I’m currently studying Computer Science & Engineering at Ewha Womans Univ.
 
 - 📫 How to reach me: ekgus9701@gmail.com
 
@@ -15,11 +15,11 @@
 
 
 #### Experiences
--💻Member of EDOC, Programming Club(2019.12~)
+- 💻Member of EDOC, Programming Club(2019.12~)
 
--😎Member of UNIS, Startup Club(2020.03~)
+- 😎Member of UNIS, Startup Club(2020.03~)
 
--🎨Member of Dam2rang, Mural Drawing Club (2019.03~)
+- 🎨Member of Dam2rang, Mural Drawing Club (2019.03~)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekgus9701&theme=radical)](https://github.com/ekgus9701/github-readme-stats)
