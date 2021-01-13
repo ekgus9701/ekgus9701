@@ -9,7 +9,7 @@
 
 #### Interests
 
-- 🌱 I’m currently learning `Algorithms`, `C++`, `Making apps`.
+- 🌱 I’m currently learning `Algorithms`, `Java`, `Making apps`.
 
 - 📺 I'm into Grey's Anatomy thesedays.
 
