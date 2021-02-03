@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning `Algorithms`, `Java`, `Making apps`.
 
-- 📺 I'm into Grey's Anatomy thesedays.
+- 📺 I'm into ... thesedays.
 
 
 #### Experiences
