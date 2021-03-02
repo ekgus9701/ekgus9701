@@ -9,7 +9,7 @@
 
 #### Interests
 
-- 🌱 I’m currently learning `Algorithms`, `Java`, `Making apps`.
+- 🌱 I’m currently learning `Algorithms`, `Java`.
 
 - 📺 I'm into ... thesedays.
 
@@ -18,7 +18,7 @@
 
 - 💻Member of EDOC, Programming Club (2019.12~)
 
-- 😎Member of UNIS, Startup Club (2020.03~)
+- 😎Member of UNIS, Startup Club (2020.03~2021.02)
 
 - 🎨Member of Dam2rang, Mural Drawing Club (2019.03~)
 
