@@ -16,9 +16,11 @@
 
 #### Experiences
 
-- 💻Member of EDOC, Programming Club (2019.12~)
+- 💻Member/Organizer of EDOC, Programming Club (2019.12~/2020.12~)
 
-- 😎Member of UNIS, Startup Club (2020.03~2021.02)
+- 🏫Organizer of ICPC Sinchon(2021.03~)
+
+- 😎Member/Organizer of UNIS, Startup Club (2020.03~2021.02)
 
 - 🎨Member of Dam2rang, Mural Drawing Club (2019.03~)
 
