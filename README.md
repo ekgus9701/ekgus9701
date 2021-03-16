@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning `Algorithms`, `Java`.
 
-- 📺 I'm into ... thesedays.
+- 📺 I'm into watching Netflix thesedays.
 
 
 #### Experiences
@@ -31,7 +31,7 @@
 **ekgus9701/ekgus9701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 📺 I'm into ... thesedays.
 -🔭 I’m currently working on 
 -🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
