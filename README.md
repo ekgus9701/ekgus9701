@@ -9,7 +9,7 @@
 
 #### Interests
 
-- 🌱 I’m currently learning `Algorithms`, `Java`.
+- 🌱 I’m currently learning `Algorithms`, `Web`.
 
 - 📺 I'm into watching Netflix thesedays.
 
