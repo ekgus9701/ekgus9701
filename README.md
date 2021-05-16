@@ -20,7 +20,7 @@
 
 - 💻Member/Organizer of EDOC, Programming Club (2019.12~/2020.12~)
 
-- 🏫Organizer of ICPC Sinchon(2021.03~)
+- 🍀Organizer of ICPC Sinchon(2021.03~)
 
 - 😎Member/Organizer of UNIS, Startup Club (2020.03~2021.02)
 
