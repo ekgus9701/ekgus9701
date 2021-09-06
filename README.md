@@ -2,7 +2,7 @@
 ### Hi there I'm Dahyeon🖐🖐 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekgus9701&count_bg=%23E71B8E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=ekgus9701)](https://solved.ac/ekgus9701)
 ---
-#### "꿈을 실현하려면, 잠에서 깨어나야 한다🌙"
+#### "Shoot for the moon. Even if you miss, you'll land among the stars."
 
 - 🏰 I’m currently studying Computer Science & Engineering at Ewha Womans Univ.
 
