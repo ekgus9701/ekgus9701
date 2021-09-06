@@ -11,7 +11,7 @@
 
 #### Interests
 
-- 🌱 I’m currently learning `Algorithms`, `Web`.
+- 🌱 I’m currently learning `Algorithms`, `Virtual Reality`.
 
 - 📺 I'm into watching Netflix thesedays.
 
