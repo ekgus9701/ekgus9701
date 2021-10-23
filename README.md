@@ -22,7 +22,7 @@
 
 - 🍀Organizer of ICPC Sinchon(2021.03~)
 
-- 📗Tutor of Onestop Tutoring, Ewha SW Department tutor program(2020.09~2021.07)
+- 📗Tutor of Onestop Tutoring, Ewha SW Department Tutoring Program(2020.09~2021.07)
 
 - 😎Member/Organizer of UNIS, Startup Club (2020.03~2021.02)
 
