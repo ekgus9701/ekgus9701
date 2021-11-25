@@ -18,7 +18,7 @@
 
 #### Experiences
 
-- 💻Member/Organizer of EDOC, Programming Club (2019.12~/2020.12~)
+- 💻Member/Organizer of EDOC, Programming Club (2019.12~/2020.12~2021.11)
 
 - 🍀Organizer of ICPC Sinchon(2021.03~)
 
