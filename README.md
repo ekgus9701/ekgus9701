@@ -9,11 +9,6 @@
 - 📫 How to reach me: ekgus9701@gmail.com
 
 
-#### Interests
-
-- 🌱 I’m currently learning `Algorithms`, `Virtual Reality`.
-
-- 📺 I'm into watching Netflix thesedays.
 
 
 #### Experiences
@@ -33,6 +28,11 @@
 
 <!--
 **ekgus9701/ekgus9701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Interests
+
+- 🌱 I’m currently learning `Algorithms`, ``.
+
+- 📺 I'm into watching Netflix thesedays.
 
 Here are some ideas to get you started:
 - 📺 I'm into ... thesedays.
