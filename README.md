@@ -21,7 +21,7 @@
 
 - 😎Member/Organizer of UNIS, Startup Club (2020.03~2021.02)
 
-- 🎨Member of Dam2rang, Mural Drawing Club (2019.03~)
+- 🎨Member of Dam2rang, Mural Drawing Club (2019.03~2020.03)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekgus9701&theme=radical)](https://github.com/ekgus9701/github-readme-stats)
