@@ -15,7 +15,7 @@
 
 - 💻Member/Organizer of EDOC, Programming Club (2019.12~/2020.12~2021.11)
 
-- 🍀Organizer of ICPC Sinchon(2021.03~2022.03)
+- 🍀Organizer of ICPC Sinchon(2021.03~2022.03), University Programming Club Association
 
 - 📗Tutor of Onestop Tutoring, Ewha SW Department Tutoring Program(2020.09~2021.07)
 
