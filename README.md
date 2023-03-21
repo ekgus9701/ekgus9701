@@ -12,21 +12,21 @@
 
 
 #### Experiences
-- 💻Member of UMC(University Makeus Challenge) Ewha (2023.03~)
+- 💻Member of UMC(University Makeus Challenge) Ewha (2023.03 ~)
 
-- ✈️Student in UC Berkeley Summer Session(2022.07-2022.08)
+- ✈️Student in UC Berkeley Summer Session(2022.07 ~ 2022.08)
 
-- ✈️Visiting Student in RWTH Aachen(2022.10~2023.03)
+- ✈️Visiting Student in RWTH Aachen(2022.10 ~ 2023.03)
 
-- 💻Member/Organizer of EDOC, Programming Club (2019.12 ~ 2021.12/2020.12~2021.11)
+- 💻Member/Organizer of EDOC, Programming Club (2019.12 ~ 2021.12 / 2020.12 ~ 2021.11)
 
-- 🍀Organizer/Head of ICPC Sinchon, University Programming Club Association (2021.03~2022.03/2021.09~2022.03)
+- 🍀Organizer/Head of ICPC Sinchon, University Programming Club Association (2021.03 ~ 2022.03 / 2021.09 ~ 2022.03)
 
-- 📗Tutor of Onestop Tutoring, Ewha SW Department Tutoring Program(2020.09~2021.07)
+- 📗Tutor of Onestop Tutoring, Ewha SW Department Tutoring Program(2020.09 ~ 2021.07)
 
-- 😎Member/Organizer of UNIS, Startup Club (2020.03~2021.02)
+- 😎Member/Organizer of UNIS, Startup Club (2020.03 ~ 2021.02)
 
-- 🎨Member of Dam2rang, Mural Drawing Club (2019.03~2020.03)
+- 🎨Member of Dam2rang, Mural Drawing Club (2019.03 ~ 2020.03)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekgus9701&theme=radical)](https://github.com/ekgus9701/github-readme-stats)
