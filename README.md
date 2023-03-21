@@ -18,7 +18,7 @@
 
 - ✈️Visiting Student in RWTH Aachen(2022.10~2023.03)
 
-- 💻Member/Organizer of EDOC, Programming Club (2019.12~2021.12/2020.12~2021.11)
+- 💻Member/Organizer of EDOC, Programming Club (2019.12 ~ 2021.12/2020.12~2021.11)
 
 - 🍀Organizer/Head of ICPC Sinchon, University Programming Club Association (2021.03~2022.03/2021.09~2022.03)
 
