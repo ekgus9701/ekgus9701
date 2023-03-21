@@ -22,6 +22,8 @@
 
 - 🍀Organizer/Head of ICPC Sinchon, University Programming Club Association (2021.03 ~ 2022.03 / 2021.09 ~ 2022.03)
 
+- 📗TA of Object Oriented Programming, C Programming & Lab in Ewha Womans University (2021.03 ~ 2021.06 / 2021.09 ~ 2022.12)
+
 - 📗Tutor of Onestop Tutoring, Ewha SW Department Tutoring Program(2020.09 ~ 2021.07)
 
 - 😎Member/Organizer of UNIS, Startup Club (2020.03 ~ 2021.02)
