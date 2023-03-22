@@ -14,9 +14,9 @@
 #### Experiences
 - 💻Member of UMC(University Makeus Challenge) Ewha (2023.03 ~)
 
-- ✈️Student in UC Berkeley Summer Session(2022.07 ~ 2022.08)
+- ✈️Student at UC Berkeley Summer Session(2022.07 ~ 2022.08)
 
-- ✈️Visiting Student in RWTH Aachen(2022.10 ~ 2023.03)
+- ✈️Visiting Student at RWTH Aachen University(2022.10 ~ 2023.03)
 
 - 💻Member/Organizer of EDOC, Programming Club (2019.12 ~ 2021.12 / 2020.12 ~ 2021.11)
 
