@@ -13,7 +13,6 @@
 
 #### Experiences
 
-- 💻Member of UMC(University Makeus Challenge) Ewha (2023.03 ~)
 
 - ✈️Visiting Student at RWTH Aachen University(2022.10 ~ 2023.03)
 
