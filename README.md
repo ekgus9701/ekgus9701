@@ -4,7 +4,7 @@
 ---
 #### "Shoot for the moon. Even if you miss, you'll land among the stars."
 
-- 🏰 I’m currently studying Computer Science & Engineering at Ewha Womans Univ.
+- 🏰 I’m currently studying Computer Science & Engineering / Content Convergence at Ewha Womans Univ.
 
 - 📫 How to reach me: ekgus9701@gmail.com
 
@@ -13,6 +13,7 @@
 
 #### Experiences
 
+- 💻Smart Interaction Track Completed
 
 - ✈️Visiting Student at RWTH Aachen University(2022.10 ~ 2023.03)
 
