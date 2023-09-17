@@ -4,7 +4,7 @@
 ---
 #### "Shoot for the moon. Even if you miss, you'll land among the stars."
 
-- 🏰 I’m currently studying Computer Science & Engineering / Content Convergence at OO Univ.
+- 🏰 I’m currently studying Computer Science & Engineering <!--/ Content Convergence--> at OO Univ.
 
 <!--- 📫 How to reach me: ekgus9701@gmail.com-->
 
