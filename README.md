@@ -15,9 +15,9 @@
 
 - 💻Smart Interaction Track Completed
 
-- ✈️Visiting Student at RWTH Aachen University(2022.10 ~ 2023.02)
+- ✈️Visiting Student at RWTH Aachen University(2022.10 ~ 2023.02, 방문학생)
 
-- ✈️Student at UC Berkeley Summer Session(2022.07 ~ 2022.08)
+- ✈️Student at UC Berkeley Summer Session(2022.07 ~ 2022.08, 단기파견생)
 
 - 💻Member/Organizer of OO, Programming Club (2019.12 ~ 2021.12 / 2020.12 ~ 2021.11)
 
