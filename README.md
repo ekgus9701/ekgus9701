@@ -15,7 +15,7 @@
 
 - 💻Smart Interaction Track Completed
 
-- ✈️Visiting Student at RWTH Aachen University(2022.10 ~ 2023.03)
+- ✈️Visiting Student at RWTH Aachen University(2022.10 ~ 2023.02)
 
 - ✈️Student at UC Berkeley Summer Session(2022.07 ~ 2022.08)
 
