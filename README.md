@@ -8,7 +8,16 @@
 
 - 📫 How to reach me: ekgus9701@gmail.com
 
-
+#### Skills
+<div>
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%23-157700?style=for-the-badge&logo=Csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
 
 
 #### Experiences
@@ -29,7 +38,7 @@
 
 - 😎 창업 동아리 UNIS 동아리원/운영진 (2020.03 ~ 2021.02)
 
-<!---[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekgus9701&theme=radical)](https://github.com/ekgus9701/github-readme-stats)-->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekgus9701&theme=radical)](https://github.com/ekgus9701/github-readme-stats)
 
 <!--
 **ekgus9701/ekgus9701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
