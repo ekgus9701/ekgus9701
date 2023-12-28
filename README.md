@@ -1,5 +1,5 @@
   
-### Hi there I'm Dahyeon🖐🖐
+## Hi there I'm Dahyeon🖐🖐
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekgus9701&count_bg=%23E71B8E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=ekgus9701)](https://solved.ac/ekgus9701)
 ---
 #### "Shoot for the moon. Even if you miss, you'll land among the stars."
@@ -8,19 +8,24 @@
 
 - 📫 How to reach me: ekgus9701@gmail.com
 
-#### Skills
+### Skills
 <div>
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/-C%23-157700?style=for-the-badge&logo=Csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%23-157700?style=flat-square&logo=Csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/react-%23000000.svg?style=flat-square&logo=react&logoColor=61DAFB" />
+  <br>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
 
-#### Experiences
+### Experiences
 
 - 💻 스마트 인터랙션 트랙 수료
 
