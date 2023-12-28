@@ -43,7 +43,7 @@
 
 - 😎 창업 동아리 UNIS 동아리원/운영진 (2020.03 ~ 2021.02)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekgus9701&theme=radical)](https://github.com/ekgus9701/github-readme-stats)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekgus9701&theme=radical)](https://github.com/ekgus9701/github-readme-stats)
 
 <!--
 **ekgus9701/ekgus9701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
