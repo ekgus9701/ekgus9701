@@ -11,6 +11,7 @@
 - 📫 How to reach me: ekgus9701@gmail.com
 
 ### Projects
+- 졸업 프로젝트, 담당, (2021.09 ~ 2022.07), Unity
 
 ### Skills
 <div>
