@@ -11,11 +11,6 @@
 - 📫 How to reach me: ekgus9701@gmail.com
 
 
-하하하하하하하
-
-### Projectsㅎ
-- 졸업 프로젝트, 담당, (2021.09 ~ 2022.07), Unity
-
 ### Skills
 <div>
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
@@ -51,6 +46,9 @@
 - 📗 교내 소프트웨어학부 튜터링 프로그램, 원스탑 튜터링 튜터 (2020.09 ~ 2021.07)
 
 - 😎 창업 동아리 UNIS 동아리원/운영진 (2020.03 ~ 2021.02)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekgus9701)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekgus9701&theme=radical)](https://github.com/ekgus9701/github-readme-stats)
 
