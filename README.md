@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
+<br/>
 
 ### Experiences
 - 🏙 신한투자증권 프로 디지털 아카데미 훈련생(2023.12 ~ )
@@ -48,7 +49,9 @@
 - 😎 창업 동아리 UNIS 동아리원/운영진 (2020.03 ~ 2021.02)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekgus9701)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekgus9701&layout=compact&theme=스타일)
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekgus9701&theme=radical)](https://github.com/ekgus9701/github-readme-stats)
 
