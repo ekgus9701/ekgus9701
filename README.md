@@ -10,6 +10,7 @@
 
 - 📫 How to reach me: ekgus9701@gmail.com
 
+
 ### Skills
 <div>
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
@@ -25,7 +26,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
-
 
 ### Experiences
 - 🏙 신한투자증권 프로 디지털 아카데미 훈련생(2023.12 ~ )
@@ -45,6 +45,11 @@
 - 📗 교내 소프트웨어학부 튜터링 프로그램, 원스탑 튜터링 튜터 (2020.09 ~ 2021.07)
 
 - 😎 창업 동아리 UNIS 동아리원/운영진 (2020.03 ~ 2021.02)
+
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekgus9701&layout=compact&theme=스타일)
 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekgus9701&theme=radical)](https://github.com/ekgus9701/github-readme-stats)
 
