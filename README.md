@@ -6,7 +6,7 @@
 
 - 🏰 저는 컴퓨터공학 & 융합콘텐츠학과를 전공했어요!
 
-- 🤩 저는 Web, HCI, UI/UX에 관심있어요! 
+- 🤩 저는 Web, HCI, UI/UX, 게임에 관심있어요! 
 
 - 📫 How to reach me: ekgus9701@gmail.com
 
