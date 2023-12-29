@@ -27,8 +27,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
-<br/>
-
 ### Experiences
 - 🏙 신한투자증권 프로 디지털 아카데미 훈련생(2023.12 ~ )
 
