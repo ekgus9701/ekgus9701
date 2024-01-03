@@ -10,7 +10,6 @@
 
 - 📫 How to reach me: ekgus9701@gmail.com
 
-<br/>
 
 #### “조화”
 
