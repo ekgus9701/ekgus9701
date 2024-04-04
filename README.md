@@ -8,7 +8,7 @@
 
 - 🤩 저는 Web, HCI, UI/UX에 관심있어요! 
 
-- 📫 How to reach me: ekgus9701@gmail.com
+<!-- - 📫 How to reach me: ekgus9701@gmail.com -->
 
 ### Skills
 <div>
