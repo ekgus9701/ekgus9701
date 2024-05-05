@@ -1,10 +1,10 @@
   
-## Hi there🖐🖐
+## Hi there I'm Dahyeon Han🖐🖐
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekgus9701&count_bg=%23E71B8E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=ekgus9701)](https://solved.ac/ekgus9701)
 ---
 #### "Shoot for the moon. Even if you miss, you'll land among the stars."
 
-- 🏰 저는 컴퓨터공학 & 00학과를 전공했어요!
+- 🏰 저는 컴퓨터공학 & 융합콘텐츠학과를 전공했어요!
 
 - 🤩 저는 Web, HCI, UI/UX에 관심있어요! 
 
