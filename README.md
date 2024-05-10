@@ -20,11 +20,15 @@
   <img src="https://img.shields.io/badge/react-%23000000.svg?style=flat-square&logo=react&logoColor=61DAFB" />
   <br>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  
+  
   <br>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/-C%23-157700?style=flat-square&logo=Csharp&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
   <br>
@@ -45,7 +49,7 @@
 
 - 💻 교내 프로그래밍 동아리 동아리원/운영진 (2019.12 ~ 2021.12 / 2020.12 ~ 2021.11)
 
-- 🌳 00지역 대학교 프로그래밍 동아리 연합 운영진/회장 (2021.03 ~ 2022.03 / 2021.09 ~ 2022.03)
+- 🌳 신촌 지역 대학교 프로그래밍 동아리 연합 운영진/회장 (2021.03 ~ 2022.03 / 2021.09 ~ 2022.03)
 
 - 📗 교내 객체지향프로그래밍, C 프로그래밍 및 실습 수업 학부생 조교 (2021.03 ~ 2021.06 / 2021.09 ~ 2021.12)
 
